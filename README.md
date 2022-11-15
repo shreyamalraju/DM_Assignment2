@@ -1,6 +1,8 @@
 # DM_Assignment2
 
 References 
+
+
 [1] https://www.dataquest.io/blog/naive-bayes-tutorial/ 
 
 [2] https://stackabuse.com/the-naive-bayes-algorithm-in-python-with-scikit-learn/ 
